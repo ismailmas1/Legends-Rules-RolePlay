@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+Body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*header Start*/
+header {
+    height: 220vh;
+    background-image: url(https://i.pinimg.com/736x/57/84/a4/5784a4f855c12b4e6d8bf6502933ab69.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; background-position: center;
+    
+}
+.text {
+    text-align: center;
+    color: aliceblue;
+    padding: 30px;
+    font-size: 40px;
+}
+.text2 {
+    text-align: center;
+    color: rgb(238, 194, 0);
+    padding: 1px;
+    font-size: 20px;
+}
+
+.text3 {
+    color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    text-align: center;
+}
+
+/*header End*/
